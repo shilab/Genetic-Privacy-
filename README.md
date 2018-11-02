@@ -1,2 +1,2 @@
-# Genetic-Privacy-
+# Genetic-Privacy
 Slides and Tutorials
