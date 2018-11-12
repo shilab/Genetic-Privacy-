@@ -1,7 +1,7 @@
 # Genetic-Privacy
-potential genetic privacy risks
-relevant ethics and regulations for human genomics data
-genetic privacy protecting technique: controlled access
-genetic privacy protecting technique: differential privacy
-genetic privacy protecting technique: cryptographic solution
-genetic security
+Potential genetic privacy risks;
+Relevant ethics and regulations for human genomics data;
+Genetic privacy protecting technique: controlled access;
+Genetic privacy protecting technique: differential privacy;
+Genetic privacy protecting technique: cryptographic solution;
+Genetic security
