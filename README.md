@@ -13,8 +13,5 @@ We also describe the techniques for protecting human genetic privacy from three 
 
 5. Genetic privacy protecting technique: cryptographic solution
 
-Finally, we review the issues on genetic security.
-
-6. Genetic security
 
 ![screen shot 2018-11-12 at 2 05 26 pm](https://user-images.githubusercontent.com/22375433/48418740-11e72500-e724-11e8-8ac4-47366604e40c.png)
