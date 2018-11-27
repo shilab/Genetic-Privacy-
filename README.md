@@ -2,8 +2,8 @@
 We present tutorials, course modules and projects on fundamental human genetics, potential genetic privacy and security risks, relevant ethics, regulations and techniques for sharing and protecing human genomics data.
 
 # Tutorials
-1. tutorials on genetics and genetic privacy
-2. tutorials on diffential privacy and genetic privacy protection techniques
+1. Tutorials on genetics and genetic privacy
+2. Tutorials on diffential privacy and genetic privacy protection techniques
 
 # Course materials and projects on the following topics
 1. Part I: Human genetics and genomic studies
