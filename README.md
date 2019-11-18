@@ -1,6 +1,9 @@
 # Education materials on genetic privacy:
 This repository contains a suite of tutorials, course modules and projects on fundamental human genetics, potential genetic privacy and security risks, relevant ethics, regulations and techniques for sharing and protecing human genomics data.
 
+# A Top-level Introduction to Genetic Privacy, Potential Risks and Protection Techniques
+Introduction-Genetic-Privacy-slides.pptx
+
 # Course Modules with teaching materials for the following four topics
 1. Part I: Human genetics and genomic studies
 2. Part II: Potential genetic privacy risks
