@@ -3,6 +3,7 @@ This repository contains a suite of tutorials, course modules and projects on fu
 
 # A Top-level Introduction to Genetic Privacy, Potential Risks and Protection Techniques
 Updated introduction: GeneticPrivacy-Overview.2023.pdf
+
 Introduction-Genetic-Privacy-slides.pptx
 
 # Course Modules with teaching materials for the following four topics
